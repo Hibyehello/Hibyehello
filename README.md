@@ -25,8 +25,8 @@
 - MacOS Development
 
 ## Current Projects
-[![N4-Studios](https://github-readme-stats.vercel.app/api/pin/?username=hibyehello-alt&repo=Computer-Simulator)](https://github.com/hibyehello-alt/Computer-Simulator)
-[![TAS-Comp-Bot-py](https://github-readme-stats.vercel.app/api/pin/?username=hibyehello&repo=TAS-Comp-Boy-py)](https://github.com/Hibyehello/TAS-Comp-Bot-py)
+[![N4-Studios](https://github-readme-stats.vercel.app/api/pin/?username=Hibyehello&repo=Computer-Simulator)](https://github.com/Hibyehello/Computer-Simulator)
+[![TAS-Comp-Bot-py](https://github-readme-stats.vercel.app/api/pin/?username=Hibyehello&repo=TAS-Comp-Boy-py)](https://github.com/Hibyehello/TAS-Comp-Bot-py)
 [![KMPeek](https://github-readme-stats.vercel.app/api/pin/?username=shxd10&repo=kmpeek)](https://github.com/shxd10/kmpeek)
 
 ### Contact Me
