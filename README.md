@@ -26,7 +26,7 @@
 
 ## Current Projects
 [![N4-Studios](https://github-readme-stats.vercel.app/api/pin/?username=Hibyehello&repo=Computer-Simulator)](https://github.com/Hibyehello/Computer-Simulator)
-[![TAS-Comp-Bot-py](https://github-readme-stats.vercel.app/api/pin/?username=Hibyehello&repo=TAS-Comp-Boy-py)](https://github.com/crackhex/TAS-Comp-Bot-py)
+[![TAS-Comp-Bot-py](https://github-readme-stats.vercel.app/api/pin/?username=crackhex&repo=TAS-Comp-Boy-py)](https://github.com/crackhex/TAS-Comp-Bot-py)
 [![KMPeek](https://github-readme-stats.vercel.app/api/pin/?username=shxd10&repo=kmpeek)](https://github.com/shxd10/kmpeek)
 
 ### Contact Me
